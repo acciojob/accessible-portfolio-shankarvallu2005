@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+.role{
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: start;
+	align-items: center;
+}
